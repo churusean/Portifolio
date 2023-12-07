@@ -2,7 +2,6 @@ import React from "react";
 import { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import contactImg from "../assets/img/contact-img.svg";
-import TrackVisibility from "react-on-screen";
 import emailjs from "@emailjs/browser"
 
 const Contact = () => {

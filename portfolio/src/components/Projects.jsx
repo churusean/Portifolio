@@ -7,7 +7,6 @@ import projImg3 from "../assets/img/pindrop.PNG";
 import projImg4 from "../assets/img/poultry.PNG";
 import projImg5 from "../assets/img/startup.PNG";
 import projImg6 from "../assets/img/portfolio.PNG";
-import projImg8 from "../assets/img/servifiy.PNG";
 import projImg7 from "../assets/img/ziva.PNG";
 import projImg9 from "../assets/img/hms.PNG";
 import colorSharp2 from "../assets/img/color-sharp2.png";
