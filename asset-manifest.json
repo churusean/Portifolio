@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ReactPortifolio/static/css/main.c1799045.css",
-    "main.js": "/ReactPortifolio/static/js/main.d4a4b2a5.js",
+    "main.js": "/ReactPortifolio/static/js/main.a2cb3203.js",
     "static/js/787.7da95b79.chunk.js": "/ReactPortifolio/static/js/787.7da95b79.chunk.js",
     "static/media/ziva.PNG": "/ReactPortifolio/static/media/ziva.1a8687993a3183a7e4fe.PNG",
     "static/media/hms.PNG": "/ReactPortifolio/static/media/hms.b163ccfda2f44e013aaa.PNG",
@@ -14,7 +14,6 @@
     "static/media/color-sharp2.png": "/ReactPortifolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/background2.jpg": "/ReactPortifolio/static/media/background2.200cfe8ef9c2d41f6d4c.jpg",
     "static/media/pindrop.PNG": "/ReactPortifolio/static/media/pindrop.93742cbcd25640d84b99.PNG",
-    "static/media/servifiy.PNG": "/ReactPortifolio/static/media/servifiy.db4480539eb0d44c342a.PNG",
     "static/media/logotop.png": "/ReactPortifolio/static/media/logotop.d148cc171441dea61a3b.png",
     "static/media/logo_transparent.png": "/ReactPortifolio/static/media/logo_transparent.dc86eb508ce1d0072c2e.png",
     "static/media/CentraNo2-Bold.ttf": "/ReactPortifolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -36,11 +35,11 @@
     "static/media/nav-icon1.svg": "/ReactPortifolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/ReactPortifolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.c1799045.css.map": "/ReactPortifolio/static/css/main.c1799045.css.map",
-    "main.d4a4b2a5.js.map": "/ReactPortifolio/static/js/main.d4a4b2a5.js.map",
+    "main.a2cb3203.js.map": "/ReactPortifolio/static/js/main.a2cb3203.js.map",
     "787.7da95b79.chunk.js.map": "/ReactPortifolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1799045.css",
-    "static/js/main.d4a4b2a5.js"
+    "static/js/main.a2cb3203.js"
   ]
 }
