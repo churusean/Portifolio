@@ -49,7 +49,7 @@ const Contact = () => {
             <img src={contactImg} alt="Contact Us" />
           </Col>
           <Col size={12} md={6}>
-            <h2>Get In Touch</h2>
+            <h1>Get In Touch</h1>
             <form onSubmit={handleSubmit}>
               <Row>
                 <Col size={12} sm={6} className="px-1">
